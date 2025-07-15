@@ -6,7 +6,7 @@ Cilis Docs is an immersive, cloud-first collaborative editor designed to bring t
 
 ## 🎥 Preview
 
-![Cilis Docs Preview](image/preview.png)
+![Cilis Docs Preview](image/preview1.png)
 
 ---
 
